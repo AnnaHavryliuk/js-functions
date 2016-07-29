@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+.box {
+  padding: 8px;
+  text-align: center;
+
+}
+.box #start-button {
+  padding: 8px 12px;
+  font: inherit;
+  cursor: pointer;
+  border: solid 2px darkgray;
+  border-radius: 6px;
+}
+.box .start-button:hover {
+  background-color: darkgrey;
+}
